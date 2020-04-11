@@ -2,4 +2,4 @@ This documentation describes how to use the Karel automatic toothbrush for a cle
 
 Note that this toothbrush is totally safe to use for children, adults, pets, wildlife, and trees, too.
 
-The toothbrush requires AAA batteries. Make sure they are fresh.
+The toothbrush requires AAA batteries.
